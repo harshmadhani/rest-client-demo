@@ -1,0 +1,3 @@
+Create a microservice which calls an API to get details about country
+
+https://restcountries.com
